@@ -1,0 +1,19 @@
+name: Feature request
+description: Suggest a JSON or TOON workflow improvement.
+title: "[Feature]: "
+labels: ["type: feature", "status: needs triage"]
+body:
+  - type: textarea
+    id: request
+    attributes:
+      label: What should JSON Panda improve?
+      description: Describe the developer workflow and desired output.
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: Why would this help?
+      description: Explain who benefits and how often they would use it.
+    validations:
+      required: true

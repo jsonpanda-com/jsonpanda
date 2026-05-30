@@ -1,0 +1,40 @@
+name: Bug report
+description: Report a broken page, wrong result, or browser problem.
+title: "[Bug]: "
+labels: ["type: bug", "status: needs triage"]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page URL
+      placeholder: https://jsonpanda.com/...
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Tool area
+      options:
+        - Formatter
+        - Validator
+        - Converter
+        - Diff
+        - Tree editor
+        - Schema validator
+        - Minifier
+        - TOON converter
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Include expected result and actual result. Use synthetic input if possible.
+    validations:
+      required: true
+  - type: input
+    id: browser
+    attributes:
+      label: Browser, device, and locale
+      placeholder: Chrome on Android, Safari on iPhone, Edge on Windows, en
