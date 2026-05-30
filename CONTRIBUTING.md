@@ -1,15 +1,28 @@
 # Contributing
 
-This repository accepts public feedback, issue reports, and product suggestions.
+Thanks for helping improve JSON Panda. This repository is focused on public product feedback, documentation, roadmap discussion, and issue tracking for [jsonpanda.com](https://jsonpanda.com).
 
-## Good Issues
+## Good Contributions
 
-- Describe one problem or request per issue.
-- Include the affected URL and tool area.
-- Include a minimal input sample when possible.
-- Explain the expected behavior.
-- Mention browser, device, and locale for UI problems.
+- Formatting, validation, parser, or error-location issues
+- Conversion mismatches across JSON, YAML, XML, CSV, TSV, or TOON
+- JSON diff cases where nested changes are unclear
+- Schema validation or tree editor behavior that affects real developer workflows
 
-## Data Safety
+## How To File Feedback
 
-Use synthetic examples. Do not post sensitive JSON payloads, API keys, logs, or private customer data.
+- Search existing issues before opening a new one.
+- Use a clear title that names the affected page or workflow.
+- Include steps to reproduce, expected behavior, actual behavior, and any safe sample input.
+- Keep screenshots and recordings free of private account, payment, uploaded-media, or personal data.
+
+## Product Boundaries
+
+- Tools should stay fast, direct, and browser-first.
+- Developer feedback should include sample inputs when safe to share.
+- TOON features should be explained as data workflow support, not AI magic.
+- This repository is for public product feedback, not private production source code.
+
+## Pull Requests
+
+This repository does not accept pull requests for the private production application. Documentation-only pull requests may be considered when they improve public support, roadmap clarity, or issue-report quality.

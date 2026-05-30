@@ -1,21 +1,31 @@
 # JSON Panda Public Roadmap
 
-This roadmap describes product areas under active consideration for jsonpanda.com. It is not a release commitment.
+This roadmap summarizes product directions we are evaluating or actively improving for [jsonpanda.com](https://jsonpanda.com). It is not a promise of delivery dates, pricing, model access, or final feature scope.
 
-## Current Focus
+## Now
 
 - Keep JSON formatting, validation, conversion, comparison, and minification reliable in the browser.
 - Improve TOON conversion guidance for LLM-oriented data workflows.
-- Maintain multilingual coverage across core tool pages.
-- Improve mobile usability for large text inputs and result panels.
+- Keep the tree editor practical for nested objects, arrays, and exported JSON.
+- Review schema validation messages for API contract work.
 
-## Planned Areas
+## Next
 
-- Better examples for JSON to TOON and TOON to JSON conversion.
-- Clearer errors for invalid JSON, malformed CSV/XML/YAML, and schema mismatches.
-- More copy/download workflows for repeated developer tasks.
-- Accessibility improvements for keyboard navigation, focus states, and editor labels.
+- Add clearer examples for common malformed JSON and conversion edge cases.
+- Improve diff readability for deeply nested API responses.
+- Clarify browser-local expectations for data privacy and large payload limits.
+- Refine multilingual wording for developer utility pages.
 
-## Feedback Wanted
+## Later
 
-Open an issue if a conversion result is wrong, an error message is unclear, or a workflow is awkward with real developer data.
+- Evaluate saved local snippets without turning the tool into a cloud workspace.
+- Improve advanced schema workflows for teams documenting API contracts.
+- Add practical guides for TOON payload design and restoration.
+- Document known limits for very large files and complex conversions.
+
+## Product Principles
+
+- Tools should stay fast, direct, and browser-first.
+- Developer feedback should include sample inputs when safe to share.
+- TOON features should be explained as data workflow support, not AI magic.
+- This repository is for public product feedback, not private production source code.

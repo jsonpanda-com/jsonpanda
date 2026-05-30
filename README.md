@@ -1,45 +1,51 @@
+<p align="center">
+  <a href="https://jsonpanda.com">
+    <img src="assets/jsonpanda-logo.svg" alt="JSON Panda logo" width="112" />
+  </a>
+</p>
+
 # JSON Panda
 
-Official public repository for [jsonpanda.com](https://jsonpanda.com), a free browser-based JSON toolkit for formatting, validation, conversion, comparison, schema checks, minification, tree editing, and TOON conversion.
+Official public repository for [jsonpanda.com](https://jsonpanda.com). JSON Panda provides browser-based tools for formatting, validating, converting, diffing, editing, minifying, schema-checking, and TOON conversion workflows.
 
 This repository is the public home for product feedback, issue reports, roadmap notes, support guidance, and community discussion. It does not contain the private production source code for the live website.
 
-## What JSON Panda Provides
+## Product Focus
 
-- JSON formatter and beautifier
-- JSON validator with syntax feedback
-- JSON converter for YAML, XML, CSV, and related formats
-- JSON diff and comparison workflows
-- JSON tree editor
-- JSON Schema validator
-- JSON minifier
-- JSON to TOON and TOON to JSON conversion tools
-- Multilingual developer-facing pages
+- Developers checking API responses, configs, and test payloads
+- QA engineers comparing staging and production JSON output
+- Data analysts converting between JSON, CSV, TSV, YAML, and XML
+- AI builders preparing compact TOON data for LLM prompts and restoring it to JSON
 
-## Public Feedback
+## Main Workflows
 
-Use GitHub Issues for:
+- Beautify or minify JSON with syntax feedback and copy/download actions.
+- Validate JSON and locate parsing errors by line and column.
+- Convert between JSON, YAML, XML, CSV, and TSV.
+- Compare JSON structures side by side and inspect added, deleted, and modified values.
+- Use JSON Schema validation and TOON conversion for API and LLM-oriented data work.
 
-- Incorrect formatting, validation, conversion, or diff results
-- Browser compatibility problems
-- Feature requests for JSON or TOON workflows
-- Documentation and translation corrections
-- Accessibility and mobile usability reports
+## What To Open Here
 
-Please include the page URL, input sample if safe to share, expected result, actual result, browser, device, and locale when relevant.
+- Formatting, validation, parser, or error-location issues
+- Conversion mismatches across JSON, YAML, XML, CSV, TSV, or TOON
+- JSON diff cases where nested changes are unclear
+- Schema validation or tree editor behavior that affects real developer workflows
 
-## Roadmap
+## Repository Boundary
 
-The public roadmap is tracked in [ROADMAP.md](ROADMAP.md). It focuses on product direction rather than internal implementation details.
+- Public issues and discussions are welcome when they improve the live product experience.
+- Do not post private account data, secrets, payment details, uploaded personal media, or sensitive logs.
+- Production application code, provider credentials, billing configuration, and deployment secrets are not published here.
+- Security reports should follow [SECURITY.md](SECURITY.md) instead of public issues.
 
-## Useful Links
+## Official Links
 
-- Website: https://jsonpanda.com
-- Issues: https://github.com/jsonpanda-com/jsonpanda/issues
-- Discussions: https://github.com/jsonpanda-com/jsonpanda/discussions
+- Website: [jsonpanda.com](https://jsonpanda.com)
+- Roadmap: [ROADMAP.md](ROADMAP.md)
 - Support: [SUPPORT.md](SUPPORT.md)
 - Security: [SECURITY.md](SECURITY.md)
 
-## Repository Scope
+## Support
 
-This repository is intentionally content-only. Public artifacts may include product notes, feedback templates, support policies, issue triage labels, and brand assets. Production code, infrastructure, secrets, analytics config, and private operational tooling are not published here.
+For product questions, use GitHub issues when the topic can be public. For account, billing, abuse, privacy, or security-sensitive questions, email contact@gencoloring.ai.
