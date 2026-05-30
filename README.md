@@ -10,6 +10,14 @@ Official public repository for [jsonpanda.com](https://jsonpanda.com). JSON Pand
 
 This repository is the public home for product feedback, issue reports, roadmap notes, support guidance, and community discussion. It does not contain the private production source code for the live website.
 
+## Product Preview
+
+![JSON Panda homepage](assets/screenshots/homepage.png)
+
+| JSON validator | TOON converter |
+| --- | --- |
+| ![JSON Panda validator](assets/screenshots/validator.png) | ![JSON Panda TOON converter](assets/screenshots/toon-converter.png) |
+
 ## Product Focus
 
 - Developers checking API responses, configs, and test payloads
