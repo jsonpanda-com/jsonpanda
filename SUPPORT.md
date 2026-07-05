@@ -1,6 +1,6 @@
 # Support
 
-This repository supports public product feedback for [JSON Panda](https://jsonpanda.com). Use the issue tracker for reproducible public problems, documentation gaps, roadmap suggestions, and product feedback.
+This repository supports public product feedback for [JSON Panda JSON formatter and validator](https://jsonpanda.com). Use the issue tracker for reproducible public problems, documentation gaps, roadmap suggestions, and product feedback.
 
 ## Best Public Reports
 
@@ -11,7 +11,7 @@ This repository supports public product feedback for [JSON Panda](https://jsonpa
 
 ## Private Support
 
-Email contact@gencoloring.ai for account, billing, abuse, privacy, uploaded-media, or security-sensitive topics. Do not post payment details, personal data, private media, access tokens, cookies, or full request logs in public issues.
+Email the Nano Products shared official support mailbox at contact@gencoloring.ai for account, billing, abuse, privacy, uploaded-media, or security-sensitive topics. Do not post payment details, personal data, private media, access tokens, cookies, or full request logs in public issues.
 
 ## Useful Details To Include
 

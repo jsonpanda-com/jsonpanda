@@ -1,6 +1,6 @@
 # JSON Panda Public Roadmap
 
-This roadmap summarizes product directions we are evaluating or actively improving for [jsonpanda.com](https://jsonpanda.com). It is not a promise of delivery dates, pricing, model access, or final feature scope.
+This roadmap summarizes product directions we are evaluating or actively improving for [JSON Panda JSON formatter and validator](https://jsonpanda.com). It is not a promise of delivery dates, pricing, model access, or final feature scope.
 
 ## Now
 

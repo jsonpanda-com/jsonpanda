@@ -2,7 +2,7 @@
 
 ## Reporting A Vulnerability
 
-Please do not open public issues for security reports. Email contact@gencoloring.ai with a concise description, affected URL, reproduction steps, and any evidence that helps us verify impact.
+Please do not open public issues for security reports. Email the Nano Products shared official support mailbox at contact@gencoloring.ai with a concise description, affected URL, reproduction steps, and any evidence that helps us verify impact.
 
 ## In Scope
 

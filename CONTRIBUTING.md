@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for helping improve JSON Panda. This repository is focused on public product feedback, documentation, roadmap discussion, and issue tracking for [jsonpanda.com](https://jsonpanda.com).
+Thanks for helping improve JSON Panda. This repository is focused on public product feedback, documentation, roadmap discussion, and issue tracking for [JSON Panda JSON formatter and validator](https://jsonpanda.com).
 
 ## Good Contributions
 
