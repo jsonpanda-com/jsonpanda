@@ -52,6 +52,10 @@ This repository is the public home for product feedback, issue reports, roadmap 
 - [JSON Panda JSON formatter and validator](https://jsonpanda.com): Format, validate, convert, diff, edit, minify, and schema-check JSON in the browser.
 - [JSON Panda JSON formatter](https://jsonpanda.com/formatter): Open the focused JSON formatting workspace.
 
+## Build A Minimal Data Reproduction
+
+State the tool—formatter, validator, converter, diff, schema checker, tree editor, or TOON—and provide the smallest non-sensitive input that demonstrates the behavior. Include expected output and the browser when the issue is UI-specific.
+
 ## Recent Updates
 
 - 2026-07: Reworked README product-entry links so anchor text matches the target page topic and current language.
